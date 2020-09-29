@@ -1,0 +1,23 @@
+{
+  "name": "flexbox-browser-compatability-transition-transform",
+  "version": "1.0.0",
+  "description": "css practice",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehul1011/flexbox-browser-compatability-transition-transform.git"
+  },
+  "author": "mehul1011",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehul1011/flexbox-browser-compatability-transition-transform/issues"
+  },
+  "homepage": "https://github.com/mehul1011/flexbox-browser-compatability-transition-transform#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

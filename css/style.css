@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+}
+
+html {
+    background: url('https://www.screenja.com/static/img/thumbs/one-piece-logo-normal-636.png') no-repeat center center fixed;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: flex-end; */
+    /* align-items: flex-end; */
+    /* align-content: flex-end; */
+    /* align-self: flex-end; */
+    /* flex-direction: row-reverse; */
+
+}
+
+img {
+    width: 350px;
+    height: auto;
+    margin: 10px;
+    box-shadow: 4px 4px 5px gray;
+    transition: all 1s;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
